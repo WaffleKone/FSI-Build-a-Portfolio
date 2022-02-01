@@ -1,0 +1,23 @@
+h1,
+h2,
+h3,
+p,
+li {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: rgb(160, 90, 160);
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+    
+}
+
+.restrain50 {
+    width: 50%;
+    margin: 0 auto;
+}
